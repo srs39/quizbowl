@@ -1,0 +1,39 @@
+!1205;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SCU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+S+U0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SyU0PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+s#m0src
+s#n0classes
+s#p0doc
+s#q0test
+s#w0canvas
+!3282;d
+[\012  grasp [\012   legendy -43.8\012   legendx -327.5\012   version 1\012   winflags 3\012   eheight 972\012   ewidth 960\012   height 972\012   width 960\012   wbp 0\012   initlayout 0\012   yoffs -75.79999999999993\012   xoffs -147.3\012   scale 1.0\012   args ""\012   otherflags 143\012   shallowjar 1\012   visflags -955318017\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "Player"\012    fromclassfiledate 0\012    fromclassfilename "%\011classes%sPlayer.class"\012    fromfilename "%\011src%sPlayer.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x 45.19999999999999\012     y -25.599999999999994\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "QuestionMC"\012    fromclassfiledate 0\012    fromclassfilename "%\011classes%sQuestionMC.class"\012    fromfilename "%\011src%sQuestionMC.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x -329.6\012     y 40.0\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "QuestionSA"\012    fromclassfiledate 0\012    fromclassfilename "%\011classes%sQuestionSA.class"\012    fromfilename "%\011src%sQuestionSA.java"\012   ]\012   id 2\012   graphics [\012    center [\012     x -226.8\012     y 39.20000000000002\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "QuestionTF"\012    fromclassfiledate 0\012    fromclassfilename "%\011classes%sQuestionTF.class"\012    fromfilename "%\011src%sQuestionTF.java"\012   ]\012   id 3\012   graphics [\012    center [\012     x -124.0\012     y 39.20000000000002\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "Questions"\012    fromclassfiledate 0\012    fromclassfilename "%\011classes%sQuestions.class"\012    fromfilename "%\011src%sQuestions.java"\012   ]\012   id 4\012   graphics [\012    center [\012     x -256.4\012     y 100.80000000000001\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 512\012    classname "Quiz"\012    fromclassfiledate 0\012    fromclassfilename "%\011classes%sQuiz.class"\012    fromfilename "%\011src%sQuiz.java"\012   ]\012   id 5\012   graphics [\012    center [\012     x -23.200000000000017\012     y 148.8\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "QuizBowl"\012    fromclassfiledate 0\012    fromclassfilename "%\011classes%sQuizBowl.class"\012    fromfilename "%\011src%sQuizBowl.java"\012   ]\012   id 6\012   graphics [\012    center [\012     x -19.599999999999966\012     y 108.00000000000006\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012 ]!1;k
+1!19;a
+a%\011doc%s	b	c1	d1!192;g
+%\011%uQuestionMC.java
+%\011src%sPlayer.java
+%\011src%sQuestionSA.java
+%\011src%sQuiz.java
+%\011src%sQuizBowl.java
+%\011src%sQuestionTF.java
+%\011src%sQuestions.java
+%\011src%sQuestionMC.java
+!192;f
+%\011%uQuestionMC.java
+%\011src%sPlayer.java
+%\011src%sQuestionSA.java
+%\011src%sQuiz.java
+%\011src%sQuizBowl.java
+%\011src%sQuestionTF.java
+%\011src%sQuestions.java
+%\011src%sQuestionMC.java
